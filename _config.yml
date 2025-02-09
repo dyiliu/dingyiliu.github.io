@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Dingyi Liu"
 description              : "I'm an urban planning researcher, I use big data to understand city-related issues such as land use, transportation, and food system."
-repository               : "dyiliu/dingyiliu.github.io"
+repository               : "dyiliu/dyiliu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
